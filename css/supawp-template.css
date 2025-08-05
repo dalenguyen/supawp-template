@@ -1,0 +1,53 @@
+/* SupaWP Template - Custom Styles */
+
+/* Add your custom CSS styles here */
+
+/* Example: Custom form styles */
+.supawp-template-form {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+/* Example: Custom button styles */
+.supawp-template-button {
+  background-color: #0073aa;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.supawp-template-button:hover {
+  background-color: #005a87;
+}
+
+/* Example: Custom message styles */
+.supawp-template-message {
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 3px;
+}
+
+.supawp-template-message.success {
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+}
+
+.supawp-template-message.error {
+  background-color: #f8d7da;
+  color: #721c24;
+  border: 1px solid #f5c6cb;
+}
+
+/* Example: Custom container styles */
+.supawp-template-container {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  margin: 20px 0;
+}
